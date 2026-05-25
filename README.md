@@ -1,1 +1,1 @@
-I created this with ChatGPT to run as a scheduled task on login to move my Gamepass games to a folder of my choice.
+I created this with ChatGPT to run as a scheduled task on login to move my Gamepass games to a folder of my choice. I use this with Stardock's Fences Folder Portal to create a Fence of my currently installed Gamepass games.
