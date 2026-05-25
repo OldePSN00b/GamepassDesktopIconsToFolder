@@ -1,5 +1,5 @@
 $Desktop = [Environment]::GetFolderPath("Desktop")
-$XboxFenceFolder = "C:\Users\terri\Gamepass Game Icons"
+$XboxFenceFolder = "<your path location>"
 
 New-Item -ItemType Directory -Path $XboxFenceFolder -Force | Out-Null
 
